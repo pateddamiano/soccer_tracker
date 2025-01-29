@@ -1,8 +1,4 @@
 # Soccer Match Analysis with YOLO
-## Overview
-This project uses You Only Look Once (YOLO)-based Object Detection and Object Tracking to detect, track, and analyze professional soccer match footage. By detecting players, referees, and the ball, it provides detailed insights into player movement, ball control, and game statistics. The project is built with OpenCV, Ultralytics YOLOv5, and Supervision libraries and was based on a tutorial from YouTube tutorial from CodeInAJiffy on YouTube.
-
-# Soccer Match Analysis with YOLO
 
 ## Overview
 This project uses You Only Look Once (YOLO)-based Object Detection and Object Tracking to detect, track, and analyze professional soccer match footage. By detecting players, referees, and the ball, it provides detailed insights into player movement, ball control, and game statistics. The project is built with OpenCV, Ultralytics YOLOv5, and Supervision libraries and was based on a tutorial from YouTube tutorial from CodeInAJiffy on YouTube.
